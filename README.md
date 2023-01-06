@@ -1,12 +1,43 @@
+<style>
+  h1 {
+    color: purple;
+    font-size: 2em;
+  }
 
+  p {
+    font-size: 1.2em;
+  }
 
-<h1 align="center">🎉 Welcome to my GitHub profile! 🎉</h1>             
-<h1 align="center">About Me 👨‍💻</h1>
-                                
-I am a third-year computer science student👨‍🎓 💻, with a strong passion for software development and problem-solving. 
+  code {
+    background-color: lightgray;
+    padding: 0.2em;
+  }
 
-Throughout my studies, I have gained experience in a variety of programming languages and frameworks 🛠️, including Java, Python, C, MySQL and more. I am always looking to expand my skillset and take on new challenges 💪.
+  strong {
+    font-size: 1.5em;
+  }
+</style>
 
-On this page, you will find a selection of my personal projects and coursework, ranging from web applications to data analysis tools. I hope that you find these projects interesting and informative 🤓.
+<h1>
+  🎉 Welcome to my GitHub profile! 🎉
+</h1>
 
-Feel free to browse through my repositories, and don't hesitate to reach out if you have any questions or comments 📫. Thank you for visiting! 🙏
+<p>
+  I am a third-year computer science student 👨‍🎓💻, with a strong passion for software development and problem-solving. 
+</p>
+
+<p>
+  Throughout my studies, I have gained experience in a variety of programming languages and frameworks, including <code>Java</code>, <code>Python</code>,<code>C</code>, <code>MySQL</code> and more. I am always looking to expand my skillset and take on new challenges <strong>💪</strong>.
+</p>
+
+<p>
+  On this page, you will find a selection of my personal projects and coursework <strong>💻</strong>, ranging from web applications to data analysis tools. I hope that you find these projects interesting and informative <strong>🤓</strong>.
+</p>
+
+<p>
+  Feel free to browse through my repositories <strong>🗂</strong>, and don't hesitate to reach out if you have any questions or comments <strong>💬</strong>. Thank you for visiting! <strong>🙏</strong>
+</p>
+
+<p>
+  <strong>🖐️👋🖐️👋🖐️👋</strong>
+</p>
