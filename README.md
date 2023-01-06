@@ -1,24 +1,3 @@
-<head>
-  <style>
-    h1 {
-      color: purple;
-      font-size: 2em;
-    }
-
-    p {
-      font-size: 1.2em;
-    }
-
-    code {
-      background-color: lightgray;
-      padding: 0.2em;
-    }
-
-    strong {
-      font-size: 1.5em;
-    }
-  </style>
-</head>
 
 <body>
   <h1>
