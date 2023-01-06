@@ -1,9 +1,6 @@
-### Hi there 👋
 
-<p align="center">
-🎉 Welcome to my GitHub profile! 🎉                  
-          About Me 👨‍💻
-</p>
+
+<h1 align="center">🎉 Welcome to my GitHub profile! 🎉</h1>             
 <h1 align="center">About Me 👨‍💻</h1>
                                 
 I am a third-year computer science student👨‍🎓 💻, with a strong passion for software development and problem-solving. 
