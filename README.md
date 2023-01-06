@@ -1,9 +1,6 @@
 
 <body>
-  <h1>
-    🎉 Welcome to my GitHub profile! 🎉
-  </h1>
-
+  <h1 align="center">🎉 Welcome to my GitHub profile! 🎉</h1>
   <p>
     I am a third-year computer science student 👨‍🎓💻, with a strong passion for software development and problem-solving. 
   </p>
