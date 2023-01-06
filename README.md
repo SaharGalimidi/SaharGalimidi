@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-                  🎉 Welcome to my GitHub profile! 🎉
+                  ### 🎉 Welcome to my GitHub profile! 🎉
                   
-                               About Me 👨‍💻
+                               ### About Me 👨‍💻
                                 
 I am a third-year computer science student👨‍🎓 💻, with a strong passion for software development and problem-solving. 
 
